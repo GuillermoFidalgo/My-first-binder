@@ -1,7 +1,7 @@
 # Matplotlib Software Carpentry
 First binder 
 Click on the badge to open in Binder 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuillermoFidalgo/My-first-binder/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuillermoFidalgo/Matplotlib-SWC/HEAD)
 ## To Do: 
 - Include Excercises:
   - Ask participants to add other elements to the plot.
