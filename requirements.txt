@@ -6,3 +6,4 @@ scipy
 pandas
 hist
 mplhep
+h5py
